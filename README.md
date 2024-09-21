@@ -1,2 +1,2 @@
 # Computer-Security
-CT201H
+Computer security labs (based on exercises of Proffessor Jason Noh).
